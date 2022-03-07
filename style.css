@@ -38,7 +38,7 @@ a:hover {
     position: static;
     overflow: visible;
     height: auto;
-    top: 0;
+    
     min-height: 700px;
     
     padding-bottom: 70px;
@@ -62,7 +62,7 @@ a:hover {
 
 .navbar-brand {
     font-weight: bolder;
-    color: #fff;
+    color: #ffffff;
     
     font-size: 2.2rem;
 }
@@ -150,11 +150,11 @@ a:hover {
     margin-top: 2rem;
 }
 .service1-heading{
-    padding:1rem 0 1rem 5rem;
+    padding:1rem 0rem 1rem 5rem;
     font-weight: 500;
 }
 .service1-paragraph{
-    padding:0rem 0 1rem 5rem;
+    padding:0rem 0rem 1rem 5rem;
     font-weight: 400;
 }
 
